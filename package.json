@@ -8,10 +8,12 @@
     "build": "vite build",
     "preview": "vite preview"
   },
+  "homepage": "https://github.com/breess457/my-todollsit",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.3.0",
     "@fortawesome/free-solid-svg-icons": "^6.3.0",
     "@fortawesome/react-fontawesome": "^0.2.0",
+    "gh-pages": "^5.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
